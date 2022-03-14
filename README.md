@@ -19,8 +19,8 @@
 ## Standalone services
 |   | Name |  Description | Type | Docker container | Extra info | Used by |
 |---|---|---|---|---|---|---|
-| ![bitwarden](images/bitwarden.png" width="50"> | BitWarden | Password manager | ![](https://img.shields.io/:Tooling-8B36DA.svg?style=for-the-badge) | `bitwarden/server` | [Install](https://bitwarden.com/help/install-on-premise-linux/) | 
-| ![boinc](images/107590253e667ae1e3267d49334d298648a450cf88eecd96c6b0b3d3cf36f16e.png" width="50">  |  BOINC | Science research | ![](https://img.shields.io/:Other-2ecc71.svg?style=for-the-badge)  | `linuxserver/boinc` |  |
+|  <img src="images/bitwarden.png" width="50"> | BitWarden | Password manager | ![](https://img.shields.io/:Tooling-8B36DA.svg?style=for-the-badge) | `bitwarden/server` | [Install](https://bitwarden.com/help/install-on-premise-linux/) | 
+|  <img src="images/107590253e667ae1e3267d49334d298648a450cf88eecd96c6b0b3d3cf36f16e.png" width="50">  |  BOINC | Science research | ![](https://img.shields.io/:Other-2ecc71.svg?style=for-the-badge)  | `linuxserver/boinc` |  |
 |  <img src="images/81359dfa9b0d272010254bb97635f7c121a010c4a1d6b56057256bd02d17a4f0.png" width="50"> |  Emby | Media server | ![](https://img.shields.io/:Media-1081C2.svg?style=for-the-badge) | `emby/embyserver`  |
 | <img src="images/bd5570ce87dc9a43d8d6bd2f801e9535850ffa4c304eab768bd446b9cf2009b7.png" width="50"> |  Gitea | Git server | ![](https://img.shields.io/:Coding-A0A227.svg?style=for-the-badge) | `gitea/gitea` |  |
 |  <img src="images/c91d029a4a55439caa0ea551bb6f40cb6e04a61c3139570c30e4d63d2416ef7f.png" width="50"> |  Gotify | PUSH notifications | ![](https://img.shields.io/:Social-4ecad8.svg?style=for-the-badge) | `gotify/server` |  |
